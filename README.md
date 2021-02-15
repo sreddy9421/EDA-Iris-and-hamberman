@@ -1,2 +1,2 @@
 # EDA-Iris-and-hamberman
-EDA-Iris-and-hamberman
+Exploratory Data Analysis using Iris and hamberman dataset.
